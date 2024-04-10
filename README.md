@@ -7,7 +7,7 @@
 </div>
 
 # Página de Login
-Pagina de login responsiva.
+Pagina de login muito atraente usando os padroes de UX/UI, sendo totalmente responsivo.
 
 # Projeto Front-end
 
