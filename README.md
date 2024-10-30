@@ -3,7 +3,7 @@
 ## :camera: Demo
 
 <div align="center" >
-  <img src=[(https://github.com/user-attachments/assets/5dbedee6-c5fc-4053-87e6-22b3ab1d060d"height="300")]>
+  <img src=https://github.com/FelipeMaximus/page-login/issues/3#issue-2624082158>
 </div>
 
 # Página de Login
